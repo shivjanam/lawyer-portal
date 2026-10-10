@@ -1,9 +1,9 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "framework": "nextjs",
-  "buildCommand": "cd advocate-pro/apps/web && next build",
-  "installCommand": "cd advocate-pro/apps/web && npm install",
-  "outputDirectory": "advocate-pro/apps/web/.next",
+  "buildCommand": "cd apps/web && next build",
+  "installCommand": "cd apps/web && npm install",
+  "outputDirectory": "apps/web/.next",
   "env": {
     "APP_ENVIRONMENT": "production"
   }
