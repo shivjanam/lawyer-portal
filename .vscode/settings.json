@@ -1,0 +1,16 @@
+{
+  "python.defaultInterpreterPath": "D:\\Users\\Shiv\\Environments\\advocatepro-api\\Scripts\\python.exe",
+  "python.terminal.activateEnvironment": true,
+  "python.analysis.extraPaths": [
+    "${workspaceFolder}/advocate-pro/apps/api"
+  ],
+  "terminal.integrated.env.windows": {
+    "TEMP": "D:\\Users\\Shiv\\Temp",
+    "TMP": "D:\\Users\\Shiv\\Temp",
+    "PIP_CACHE_DIR": "D:\\Users\\Shiv\\Cache\\pip",
+    "npm_config_cache": "D:\\Users\\Shiv\\Cache\\npm",
+    "PYTHONPYCACHEPREFIX": "D:\\Users\\Shiv\\Cache\\python-bytecode",
+    "PLAYWRIGHT_BROWSERS_PATH": "D:\\Users\\Shiv\\Cache\\ms-playwright",
+    "PYTHONPATH": ""
+  }
+}
